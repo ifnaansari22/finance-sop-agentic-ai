@@ -1,0 +1,8 @@
+langchain
+langgraph
+chromadb
+faiss-cpu
+pymupdf
+streamlit
+fpdf2
+python-dotenv
