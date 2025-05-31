@@ -41,6 +41,7 @@ finance-sop-agentic-ai/
 ├── .gitignore
 └── env/            # Python virtual environment (excluded from Git)
 
+```
 
 ## Quickstart
 
