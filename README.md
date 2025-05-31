@@ -88,9 +88,6 @@ This project is licensed under the MIT License.
 
 
 ## Credits
-
-- Built by [ifnaansari](https://github.com/ifnaansari22) and team.
-- Based on the [7-day-plan1.pdf](./7-day-plan1.pdf) internship roadmap.
 - Uses open-source tools and models.
 
 
